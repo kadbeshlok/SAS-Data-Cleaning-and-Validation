@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_bp_grouping",
+  "source_file": "MY SAS PROJECT CHAPTER 21.sas",
+  "source_blob_sha": "36b9819281d6ccc60baa11d4f5ccfc5b82851052",
+  "source_commit": "d0186f76815e803c94a518959ade61bea6f061c3",
+  "notes": "Systolic BP reviewed with UNIVARIATE, a four-level clinical BPGrp built with missing-guard and checked with a crosstab, plus a diastolic-vs-systolic SGPLOT scatter; mock 12-row BP_a substitutes the library extract."
+}

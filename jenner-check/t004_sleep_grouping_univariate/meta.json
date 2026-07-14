@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_sleep_grouping_univariate",
+  "source_file": "MY SAS PROJECT CHAPTER 1 2.sas",
+  "source_blob_sha": "552294aa78efe19aa482c817092106eb78e842a7",
+  "source_commit": "d0186f76815e803c94a518959ade61bea6f061c3",
+  "notes": "SLEPTIM1 ineligible-value suppression into SLEPTIM2 with UNIVARIATE, then a four-level SLEEPGRP plus indicators checked with crosstabs; mock 11-row BRFSS_a substitutes the extract."
+}

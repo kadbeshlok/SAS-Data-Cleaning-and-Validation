@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-14T16:29:35Z",
+  "_captured_run_id": "r_cb17bd8793b5499482c9aeee3a5644f3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote IndexExample (6 rows"
+  ],
+  "output_contains": [
+    "Table of HAFLAG by CVDINFR4",
+    "The FREQ Procedure"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-14T16:29:35Z",
+  "_captured_run_id": "r_ea688281d4e4461883cd9061bd8a1360",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote brfss_g (8 rows, 6 columns)."
+  ],
+  "output_contains": [
+    "Table of DIABETE3 by DIABETE4",
+    "Chi-Square"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

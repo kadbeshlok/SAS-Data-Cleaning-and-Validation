@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-14T16:29:35Z",
+  "_captured_run_id": "r_e0405559837648faa47721ab6e8c5482",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote clean_Example"
+  ],
+  "output_contains": [
+    "The UNIVARIATE Procedure",
+    "Table of SLEPTIM1 by SLEEPGRP"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

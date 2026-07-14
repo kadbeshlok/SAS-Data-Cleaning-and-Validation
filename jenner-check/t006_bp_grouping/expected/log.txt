@@ -1,0 +1,27 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA BP_a
+
+NOTE: Processing inline DATALINES (12 lines)
+
+NOTE: Read 12 rows from DATALINES.
+NOTE: Wrote BP_a (12 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC UNIVARIATE
+NOTE: DATA BP_b
+
+
+NOTE: Read 12 rows from BP_a.
+NOTE: Wrote BP_b (12 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_bpxosy1_bpgrp.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC SGPLOT data=BP_a
+
+NOTE: PROC SGPLOT output written to: ./ods_output/sgplot.svg

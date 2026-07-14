@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-14T16:29:35Z",
+  "_captured_run_id": "r_1d6b0e9f53e74688919c8d7f3da58321",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote brfss_recoded (7 rows"
+  ],
+  "output_contains": [
+    "Table of MARITAL by margrp",
+    "Table of RACEGRP by _MRACE1"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

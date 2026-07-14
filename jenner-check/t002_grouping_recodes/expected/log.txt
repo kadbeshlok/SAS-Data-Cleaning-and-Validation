@@ -1,0 +1,30 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA brfss_i
+
+NOTE: Processing inline DATALINES (7 lines)
+
+NOTE: Read 7 rows from DATALINES.
+NOTE: Wrote brfss_i (7 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA brfss_recoded
+
+
+NOTE: Read 7 rows from brfss_i.
+NOTE: Wrote brfss_recoded (7 rows, 16 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_marital_margrp.spec.json
+NOTE: ODS plot written: freq_mosaic_edgroup_educa.spec.json
+NOTE: ODS plot written: freq_mosaic_genhlth2_genhlth.spec.json
+NOTE: ODS plot written: freq_mosaic_income3_income2.spec.json
+NOTE: ODS plot written: freq_mosaic_racegrp__mrace1.spec.json
+NOTE: ODS plot written: freq_mosaic_exerany3_exerany2.spec.json
+NOTE: ODS plot written: freq_mosaic_hlthpln2_hlthpln1.spec.json
+NOTE: ODS plot written: freq_mosaic_bmicat__bmi5cat.spec.json
+NOTE: PROC FREQ statement used.

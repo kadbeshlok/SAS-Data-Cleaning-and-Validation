@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_chronic_disease_index",
+  "source_file": "MY SAS PROJECT CHAPTER 1 2.sas",
+  "source_blob_sha": "552294aa78efe19aa482c817092106eb78e842a7",
+  "source_commit": "d0186f76815e803c94a518959ade61bea6f061c3",
+  "notes": "Eleven chronic-condition flags summed into CDINDEX, each flag checked against its source item and the index distribution tabulated; mock 6-row BRFSS_a substitutes the extract."
+}
