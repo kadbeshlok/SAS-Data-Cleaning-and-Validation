@@ -1,0 +1,27 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA example
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote example (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA example
+
+
+NOTE: Read 8 rows from example.
+NOTE: Wrote example (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FORMAT library=WORK
+
+NOTE: FORMAT asthma_f defined (2 ranges).
+NOTE: FORMAT diabete_f defined (2 ranges).
+NOTE: FORMAT age_g_f defined (6 ranges).
+NOTE: FORMAT sex_f defined (2 ranges).
+NOTE: PROC TABULATE

@@ -1,0 +1,41 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T061458Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA BRFSS_a
+
+NOTE: Processing inline DATALINES (11 lines)
+
+NOTE: Read 11 rows from DATALINES.
+NOTE: Wrote BRFSS_a (11 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_sleptim1.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: DATA clean_Example
+
+
+NOTE: Read 11 rows from BRFSS_a.
+NOTE: Wrote clean_Example (11 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_sleptim1_sleptim2.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC UNIVARIATE
+NOTE: DATA Grouping_Example
+
+
+NOTE: Read 11 rows from clean_Example.
+NOTE: Wrote Grouping_Example (11 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_mosaic_sleptim1_sleepgrp.spec.json
+NOTE: ODS plot written: freq_mosaic_sleepgrp_sg1.spec.json
+NOTE: ODS plot written: freq_mosaic_sleepgrp_sg2.spec.json
+NOTE: ODS plot written: freq_mosaic_sleepgrp_sg3.spec.json
+NOTE: PROC FREQ statement used.

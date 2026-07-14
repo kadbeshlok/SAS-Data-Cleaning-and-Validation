@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_grouping_recodes",
+  "source_file": "MY SAS PROJECT CHAPTER 1 2.sas",
+  "source_blob_sha": "552294aa78efe19aa482c817092106eb78e842a7",
+  "source_commit": "d0186f76815e803c94a518959ade61bea6f061c3",
+  "notes": "Chapter 3 demographic grouping recodes (MARGRP/EDGROUP/GENHLTH2/INCOME3/RACEGRP/EXERANY3/HLTHPLN2/BMICAT) verified with list/missing crosstabs; mock 7-row brfss_i substitutes the library extract."
+}
